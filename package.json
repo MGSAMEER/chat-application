@@ -1,0 +1,28 @@
+{
+  "name": "real-time-chat-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.7.2",
+    "@tailwindcss/typography": "^0.5.16",
+    "autoprefixer": "^10.4.21",
+    "express": "^5.1.0",
+    "framer-motion": "^12.23.3",
+    "gsap": "^3.13.0",
+    "lottie-web": "^5.13.0",
+    "multer": "^2.0.1",
+    "postcss": "^8.5.6",
+    "socket.io": "^4.8.1",
+    "tailwindcss": "^4.1.11",
+    "vanilla-tilt": "^1.8.1"
+  }
+}
